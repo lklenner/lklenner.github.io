@@ -1,1 +1,0 @@
-import{g as i}from"./Bau4CZnN.js";class c{static goBack(){const o=window.location.href.replace(window.location.origin,"");o.split("#")[0];const t=o.split("/");t.shift(),t.pop(),t.length==0?i("/"):i(t.reduce((a,e)=>a+"/"+e,""))}}export{c as N};
