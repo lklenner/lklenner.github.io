@@ -1,1 +1,0 @@
-import{p as e,q as s}from"./Df_ahsfi.js";function a(t){return e(t,Date.now())}function i(t,r){const o=s(t),n=s(r);return+o==+n}function f(t){return i(t,a(t))}class u{static toFixed(r,o){const n=r.toString().split(".");return n.length==2&&n[1].length>o?(console.log(r.toFixed(o)),r.toFixed(o)):r}}export{u as N,f as i};

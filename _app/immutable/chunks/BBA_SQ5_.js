@@ -1,1 +1,0 @@
-import{h as o,J as d,b as i,$ as h,a0 as k,d as u,g as I,U as y}from"./DVl1eqIf.js";import{l,m as f,n as m}from"./Df_ahsfi.js";function b(e,a,n){o&&d();var s=e,r=y,t,c=h;i(()=>{c(r,r=a())&&(t&&k(t),t=u(()=>n(s)))}),o&&(s=I)}function g(e,a){const n=a*7;return l(e,n)}function p(e){const a=f(e),s=+f(g(a,60))-+a;return Math.round(s/m)}export{p as g,b as k};
