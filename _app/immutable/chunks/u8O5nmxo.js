@@ -1,1 +1,0 @@
-import{o as e,p as s}from"./NRRmGcJT.js";function a(t){return e(t,Date.now())}function i(t,o){const r=s(t),n=s(o);return+r==+n}function f(t){return i(t,a(t))}class u{static toFixed(o,r){const n=o.toString().split(".");return n.length==2&&n[1].length>r?(console.log(o.toFixed(r)),o.toFixed(r)):o}}export{u as N,f as i};

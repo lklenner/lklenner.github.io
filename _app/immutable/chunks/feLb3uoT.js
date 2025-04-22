@@ -1,0 +1,1 @@
+import{o as a,p as s}from"./BcqV0jEZ.js";function e(t){return a(t,Date.now())}function i(t,r){const n=s(t),o=s(r);return+n==+o}function f(t){return i(t,e(t))}class u{static toFixed(r,n){const o=r.toString().split(".");return o.length==2&&o[1].length>n?r.toFixed(n):r}}export{u as N,f as i};

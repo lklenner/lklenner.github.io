@@ -1,1 +1,0 @@
-import{h as o,J as d,b as i,a0 as k,a1 as h,d as u,g as I,U as y}from"./D6YVLWc7.js";import{k as m,m as f,n as g}from"./NRRmGcJT.js";function b(e,a,n){o&&d();var s=e,r=y,t,c=k;i(()=>{c(r,r=a())&&(t&&h(t),t=u(()=>n(s)))}),o&&(s=I)}function l(e,a){const n=a*7;return m(e,n)}function p(e){const a=f(e),s=+f(l(a,60))-+a;return Math.round(s/g)}export{p as g,b as k};
