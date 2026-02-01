@@ -1,1 +1,0 @@
-import"./Bg9kRutz.js";import{t as r,b as i}from"./DA61WD3S.js";var o=r('<div class="container-fluid full-height svelte-1s2yzm1"><h2 class="text-center">There is no content here.</h2></div>');function s(e){var t=o();i(e,t)}export{s as N};
